@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857156337330",
+    "project_id": "docdoc-3d742",
+    "storage_bucket": "docdoc-3d742.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857156337330:android:2528b2dfc23cba8c7a93ab",
+        "android_client_info": {
+          "package_name": "com.doccare.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGRpiu-CWN2W1R_XdUeq84I4sdMPvzj00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857156337330:android:14c4e0b2066d82c27a93ab",
+        "android_client_info": {
+          "package_name": "com.doccare.patient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGRpiu-CWN2W1R_XdUeq84I4sdMPvzj00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
